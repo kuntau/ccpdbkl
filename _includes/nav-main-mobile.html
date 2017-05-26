@@ -1,0 +1,29 @@
+{% capture pageurl %}{% if site.lang == "en" %}/{{ site.lang }}{% endif %}{{ page.url }}{% endcapture %}
+<li {% if page.url == "/" %} class="active" {% endif %}>
+  <a href="{{ site.baseurl | append: "/" }}">{% t menu.home %}</a>
+</li>
+{% capture service %}{% tl perkhidmatan %}{% endcapture %}
+<li {% if pageurl == service %} class="active" {% endif %}>
+  <a href="{{ service }}">{% t menu.service %}</a>
+</li>
+<li><div class="divider"></div></li>
+<li><a class="subheader" href="#">Produk</a>
+  <ul>
+    <li><a href="{% tl cwt_terminal %}">{% t menu.products.cwt %}</a></li>
+    <li><a href="{% tl app %}">{% t menu.products.app %}</a></li>
+    <li><a href="{% tl season_pass %}">{% t menu.products.season_pass %}</a></li>
+    <li><a href="{% tl reserve_bay %}">{% t menu.products.reserve_bay %}</a></li>
+  </ul>
+</li>
+<li><div class="divider"></div></li>
+<li><a class="subheader" href="#">Operasi</a>
+  <ul>
+    <li><a href="{% tl terminal_ops %}">{% t menu.operations.terminal %}</a></li>
+    <li><a href="{% tl season_pass %}">{% t menu.operations.season_pass %}</a></li>
+    <li><a href="{% tl reserve_bay %}">{% t menu.operations.reserve_bay %}</a></li>
+    <li><a href="{% tl compound %}">{% t menu.operations.compound %}</a></li>
+    <li><a href="{% tl ratet %}">{% t menu.operations.rate %}</a></li>
+  </ul>
+</li>
+<li><div class="divider"></div></li>
+<li><a href="{% tl contact %}">{% t menu.contact %}</a></li>

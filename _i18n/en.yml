@@ -1,0 +1,28 @@
+global:
+  welcome: Welcome to
+  partner: Out Partner
+langs:
+  ms: Malay
+  en: English
+menu:
+  home: Home
+  service: What we offer
+  product: Product
+  operation: Operation
+  contact: Contact
+  products:
+    cwt: CWT Terminal
+    app: Phone Payment
+    season_pass: Digital Season Pass
+    reserve_bay: Reserve Bay
+  operations:
+    terminal: Terminal Operation
+    season_pass: Digital Season Pass
+    reserve_bay: Reseve Bay
+    compound: Compound
+    rate: Parking Rate
+image_path:
+  jomparking: /assets/images/product/flow_jomparking_en.png
+  3step: /assets/images/product/3step_en.png
+  season_pass: /assets/images/product/season_pass_en.png
+  reserve_bay: /assets/images/product/reserve_bay_en.png

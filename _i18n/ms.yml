@@ -1,0 +1,28 @@
+global:
+  welcome: Selamat Datang ke
+  partner: Rakan Kami
+langs:
+  ms: Malay
+  en: English
+menu:
+  home: Utama
+  service: Perkhidmatan
+  product: Produk
+  operation: Operasi
+  contact: Hubungi
+  products:
+    cwt: CWT Terminal
+    app: Applikasi Telefon Pintar
+    season_pass: Pas Bulanan Digital
+    reserve_bay: Petak Khas
+  operations:
+    terminal: Terminal
+    season_pass: Pas Bulanan Digital
+    reserve_bay: Petak Khas
+    compound: Kompaun
+    rate: Kadar
+image_path:
+  jomparking: /assets/images/product/flow_jomparking_ms.png
+  3step: /assets/images/product/3step_ms.png
+  season_pass: /assets/images/product/season_pass_ms.png
+  reserve_bay: /assets/images/product/reserve_bay_ms.png
