@@ -21,8 +21,12 @@ menu:
     reserve_bay: Petak Khas
     compound: Kompaun
     rate: Kadar
+    map: Peta Operasi
 image_path:
   jomparking: /assets/images/product/flow_jomparking_ms.png
   3step: /assets/images/product/3step_ms.png
   season_pass: /assets/images/product/season_pass_ms.png
   reserve_bay: /assets/images/product/reserve_bay_ms.png
+  barrier: /assets/images/product/barrier.png
+  google_play: /assets/images/google_play.png
+  apple_store: /assets/images/apple_store.png

@@ -15,17 +15,17 @@
 # in the templates via {{ site.myvariable }}.
 title: City Car Park
 email: cs@citycarpark.my
-cs_email: cs.mpjasin@citycarpark.my
-cs_phone: +606 529 1212
+cs_email: cs@citycarpark.my
+cs_phone: +603 4162 8672
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 # permalink: /:title
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mpjasin.citycarpark.my" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: kuntau
-github_username:  kuntau
+url: "http://dbkl.citycarpark.my" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: citycarpark
+github_username:  citycarpark
 
 # Multi languages support
 languages: [ "ms", "en" ]

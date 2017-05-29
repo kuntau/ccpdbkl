@@ -8,7 +8,7 @@ $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 2.5px;
 
 $spacing-unit:     30px;
 
@@ -38,8 +38,15 @@ $navbar-font-color: #333;
 
 $roboto-font-path: "/assets/fonts/roboto/" !default;
 // $primary-color: color("teal", "lighten-1");
+
 @import "materialize";
+
 $primary-color: $cyan;
+
+html {
+  line-height: 1.8;
+}
+
 nav {
   background-color: white;
 }
@@ -62,4 +69,17 @@ nav {
   a {
     padding-left: 5px;
   }
+}
+
+.redbox {
+  background-color: #fc2a1c;
+  color: #fc2a1c;
+}
+.bluebox {
+  background-color: #103ffb;
+  color: #103ffb;
+}
+.yellowbox {
+  background-color: #fffa38;
+  color: #fffa38;
 }

@@ -12,7 +12,7 @@ Cara bayar:
 
 ---
 
-#### TOUCH 'N GO (DALAM PROSES)
+#### TOUCH 'N GO
 
 **Lebih Cepat, Lebih Mudah & Lebih Selamat**  
 Tiada syiling? Tiada Masalah. Kami menyediakan alternatif pembayaran untuk anda membayar masa letak kereta walaupun anda tidak mempunyai syiling.
