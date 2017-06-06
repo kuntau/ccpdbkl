@@ -8,4 +8,5 @@ $(document).ready(function() {
     full_width: true,
     indicators: false
   });
+  $('.modal').modal();
 })

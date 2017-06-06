@@ -6,10 +6,23 @@ permalink: /produk/petak-khas.html
 permalink_en: /product/reserve-bay.html
 ---
 
-<div class="row">
-  <div class="col m4">
+<DIV CLASS="row">
+  <div class="col m4 center-align">
     <img src="/assets/images/product/laptop.png" class="responsive-img">
     <img src="{% t image_path.reserve_bay %}" class="responsive-img">
+    <p>
+      <a class="btn-large btn-flat orange" href="#terms">MOHON DISINI</a>
+      <!-- <a class="btn&#45;flat btn&#45;large orange" href="http://citycarpark.my/apply/form_reserve.php">MOHON DISINI</a> -->
+    </p>
+  </div>
+  <div id="terms" class="modal modal-fixed-footer">
+    <div class="modal-content">
+      {% tf product/reserve-bay-terms.md %}
+    </div>
+    <div class="modal-footer">
+      <a href="http://citycarpark.my/apply/form_reserve.php" class="modal-action waves-effect waves-green btn-flat">Setuju</a>
+      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Kembali</a>
+    </div>
   </div>
   <div class="col m6">
     {% tf product/reserve-bay.md %}
