@@ -15,6 +15,7 @@ menu:
     app: Phone Payment
     season_pass: Digital Season Pass
     reserve_bay: Reserve Bay
+    apply: Apply
   operations:
     terminal: Terminal Operation
     season_pass: Digital Season Pass
@@ -22,6 +23,9 @@ menu:
     compound: Compound Info
     rate: Parking Rate
     map: Operation Map
+  policies: Policies
+  rate: Parking Rate
+  t&c: Terms & Conditions
 image_path:
   jomparking: /assets/images/product/flow_jomparking_en.png
   3step: /assets/images/product/3step_en.png
