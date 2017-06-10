@@ -1,4 +1,5 @@
 ---
+
 layout: page
 title: Operasi
 namespace: rate
@@ -32,5 +33,33 @@ permalink_en: /operation/parking-rate.html
         <div class="collapsible-body">{% tf operation/rate_daily.md %}</div>
       </li>
     </ul>
+  </div>
+</div>
+<hr />
+<div class="row">
+  <div class="col m12">
+    {% raw %}
+    <div id="search">
+      <h4>Search</h4>
+      <input type="text" placeholder="Search location rate" v-model="location_filter">
+      <table class="bordered striped">
+        <tr>
+          <th>NO</th>
+          <th>AREA</th>
+          <th>PARKING RATE (RM)</th>
+          <th>MONTHLY PASS RATE</th>
+          <th>RESERVE LOT RATE</th>
+        </tr>
+        <tr v-for="(loc, i) in filtered_loc">
+          <td>{{ i+1 }}</td>
+          <td>{{ loc[3] }}</td>
+          <td>{{ loc[4] }}</td>
+          <td>{{ loc[5] }}</td>
+          <td>{{ loc[6] }}</td>
+          <!-- <td><small>{{ loc[6] }}</small></td> -->
+        </tr>
+      </table>
+    </div>
+    {% endraw %}
   </div>
 </div>
