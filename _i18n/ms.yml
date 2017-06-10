@@ -26,6 +26,9 @@ menu:
   policies: Polisi
   rate: Kadar Parkir
   t&c: Terma & Syarat
+text:
+  search: Carian lokasi
+  search_placeholder: Masukkan kata kunci lokasi carian anda
 image_path:
   jomparking: /assets/images/product/flow_jomparking_ms.png
   3step: /assets/images/product/3step_ms.png

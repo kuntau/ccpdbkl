@@ -26,6 +26,9 @@ menu:
   policies: Policies
   rate: Parking Rate
   t&c: Terms & Conditions
+text:
+  search: Location search
+  search_placeholder: Key in your search location
 image_path:
   jomparking: /assets/images/product/flow_jomparking_en.png
   3step: /assets/images/product/3step_en.png
