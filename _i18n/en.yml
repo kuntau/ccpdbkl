@@ -29,6 +29,11 @@ menu:
 text:
   search: Location search
   search_placeholder: Key in your search location
+  rate:
+    area: Area
+    rate: Parking Rate (RM)
+    season_pass: Monthly Pass Rate
+    reserve_bay: Reserve Lot Rate
 image_path:
   jomparking: /assets/images/product/flow_jomparking_en.png
   3step: /assets/images/product/3step_en.png

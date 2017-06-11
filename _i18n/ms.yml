@@ -29,6 +29,11 @@ menu:
 text:
   search: Carian lokasi
   search_placeholder: Masukkan kata kunci lokasi carian anda
+  rate:
+    area: Kawasan
+    rate: Kadar Parkir (RM)
+    season_pass: Kadar Pas Bulanan
+    reserve_bay: Kadar Petak Khas
 image_path:
   jomparking: /assets/images/product/flow_jomparking_ms.png
   3step: /assets/images/product/3step_ms.png
