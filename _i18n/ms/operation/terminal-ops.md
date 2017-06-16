@@ -24,7 +24,7 @@
 
 ##### Cara Pembayaran :
 - Tunai - Syiling : Menerima wang syiling RM0.10, RM0.20 & RM0.50 (Baru dan lama)
-- Kad Touch 'n Go. (Dalam Proses)
+- Kad Touch 'n Go.
 {: .browser-default }
 
 ##### Terma & Syarat :
@@ -36,7 +36,7 @@
 * Pembayaran sudah termasuk 6% GST.
 {: .browser-default }
 
-###### Touch 'n Go (Dalam Proses)
+###### Touch 'n Go
 * Pembayaran minimum 1 jam.
 * Baki kad hendaklah minimum RM20.00.
 * Tiada pembayaran semula di atas kecuaian pelanggan. (Sekiranya tidak memasukkan nombor plate kenderaan dengan betul).
