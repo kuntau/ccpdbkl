@@ -12,8 +12,7 @@
 
 
 
-###   
-1\. DEFINITION
+#### 1\. DEFINITION
 
 1.1    In this Terms and Conditions:
 
@@ -28,8 +27,7 @@
 
 
 
-###   
-2\. TYPES OF PARKING
+#### 2\. TYPES OF PARKING
 
 2.1 Daily Parking
 
@@ -96,7 +94,7 @@
 
 
 
-### 3.0 OFFENCES AND COMPOUNDS
+#### 3.0 OFFENCES AND COMPOUNDS
 
 3.1 PLEASE TAKE NOTE that all Users are subject to the laws governing the use of the Parking Spaces and that in the event you are required to pay a fine or compounded for failing, refusing and/or neglecting to pay the parking rates due for the use of the Parking Spaces or for any offences, we shall not be responsible or liable in any manner whatsoever. By using our Services you hereby acknowledge that you are aware of and must abide by any and all the laws, orders, rules and regulations currently in force governing the Parking Spaces and that you shall hold us harmless against any and all claims, demands, suits or loss arising out of the use of our Services.
 

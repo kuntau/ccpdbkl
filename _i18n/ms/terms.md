@@ -9,8 +9,7 @@
     *   Letak Kereta Khas
 *   **Sila baca Terma dan Syarat di bawah ini dengan teliti kerana penggunaan Perkhidmatan kami tertakluk kepada terma-terma dan syarat-syarat berikut. Dengan menggunakan Perkhidmatan kami, anda bersetuju untuk diikat kepada Terma dan Syarat. Sekiranya anda tidak bersetuju kepada mana-mana atau semua Terma dan Syarat, sila JANGAN mengunakan Perkhidmatan kami.**
 
-###   
-1\. TAFSIRAN/TAKRIFAN
+#### 1\. TAFSIRAN/TAKRIFAN
 
 1.1 Di dalam Terma dan Syarat:
 
@@ -26,7 +25,7 @@ e. “Pengguna” bermakna mana-mana pengguna yang ingin letak keretanya di mana
 
 f. “Hari Bekerja” bermakna Isnin sehingga Jumaat kecuali Sabtu dan Ahad dan juga hari cuti am yang diwartakan.
 
-### 2\. JENIS-JENIS LETAK KERETA
+#### 2\. JENIS-JENIS LETAK KERETA
 
 2.1 Letak Kereta Harian
 
@@ -101,7 +100,7 @@ h. Semua bayaran adalah muktamad dan sebarang tuntutan pemulangan bayaran tidak 
 
 i. Pengguna dikehendaki hanya menggunakan petak Letak Kereta Khas yang telah ditetapkan dan CityCarPark akan mengecat sempadan petak tersebut dengan cat merah.
 
-### 3.0 KESALAHAN DAN KOMPAUN
+#### 3.0 KESALAHAN DAN KOMPAUN
 
 3.1 SILA AMBIL PERHATIAN bahawa semua Pengguna adalah tertakluk kepada undang-undang tadbir yang mentadbir kegunaan Petak-Petak Letak Kereta dan sekiranya Pengguna dikehendaki membayar denda atau kompoun kerana enggan, gagal dan/atau cuai untuk membayar kadar letak kereta untuk penggunaan Petak-Petak Letak Kereta atau atas sebab apa-apa kesalahan, maka kami tidak akan bertanggungjawab di dalam apa cara sekalipun. Dengan menggunakan Perkhidmatan kami, Pengguna mengaku di sini bahawa Pengguna tahu tentang dan mesti mengikut apa-apa atau semua undang-undang, perintah-perintah, kaedah-kaedah dan peraturan-peraturan berkuatkuasa terkini yang mentadbir penggunaan Petak-Petak Letak Kereta dan Pengguna bersetuju untuk membebaskan kami dari sebarang dan semua tuntutan, tindakan guaman dan kerugian yang berlaku akibat penggunaan Perkhidmatan kami.
 
