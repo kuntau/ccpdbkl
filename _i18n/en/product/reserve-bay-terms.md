@@ -37,10 +37,10 @@
         - All payments made at the Terminal are inclusive of GST.  
   
 
-    2. Touch n’ Go prepaid card at the Terminal
+    2. Touch 'n Go prepaid card at the Terminal
         - Minimum purchase is for one (1) hour.
-        - Minimum credit required in the Touch N’ Go prepaid card is Ringgit Malaysia Twenty (RM20.00).
-        - Citycarpark shall not be responsible or liable for any error, mistake or negligence on the part of the User in using the Touch n’ Go prepaid card at the Terminal including, but not limited to, entering the wrong period of parking required; reading error; card defect; or for entering the wrong vehicle plate or registration number.
+        - Minimum credit required in the Touch 'n Go prepaid card is Ringgit Malaysia Twenty (RM20.00).
+        - Citycarpark shall not be responsible or liable for any error, mistake or negligence on the part of the User in using the Touch 'n Go prepaid card at the Terminal including, but not limited to, entering the wrong period of parking required; reading error; card defect; or for entering the wrong vehicle plate or registration number.
         - All payments made are final and no refunds will be given.
         - The User must park at the Parking Spaces designated for Daily Parking.
         - In the event the nearest Terminal is out of order or is not operational, you are required to use another Terminal.

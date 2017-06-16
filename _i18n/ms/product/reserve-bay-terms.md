@@ -38,10 +38,10 @@ a. Kadar Letak Kereta Harian di Petak-Petak Letak Kereta boleh dibeli melalui ti
   *   Semua bayaran yang dibuat di Terminal adalah bayaran termasuk GST.
   {: .browser-default }
 
-2.  ii Kad Pra-bayar Touch N’ Go di Terminal
+2.  ii Kad Pra-bayar Touch 'n Go di Terminal
 *   Tempoh pembelian minima adalah satu (1) jam.
-*   Kredit minima di dalam kad pra-bayar Touch N’ Go yang digunakan adalah Ringgit Malaysia Dua Puluh (RM20.00).
-*   CityCarPark tidak akan bertanggungjawab terhadap sebarang kesilapan, kesalahan atau kecuaian Pengguna di dalam menggunakan kad pra-bayar Touch N’ Go di Terminal termasuk, tetapi tidak terhad kepada, memasukkan jangkamasa kegunaan yang salah dan/atau memasukkan nombor plet atau nombor pendaftaran kenderaan yang salah.
+*   Kredit minima di dalam kad pra-bayar Touch 'n Go yang digunakan adalah Ringgit Malaysia Dua Puluh (RM20.00).
+*   CityCarPark tidak akan bertanggungjawab terhadap sebarang kesilapan, kesalahan atau kecuaian Pengguna di dalam menggunakan kad pra-bayar Touch 'n Go di Terminal termasuk, tetapi tidak terhad kepada, memasukkan jangkamasa kegunaan yang salah dan/atau memasukkan nombor plet atau nombor pendaftaran kenderaan yang salah.
 *   Semua bayaran adalah muktamad dan sebarang pemulangan bayaran tidak akan dilayan.
 *   Pengguna dikehendaki hanya menggunakan petak letak kereta yang telah ditetapkan sebagai Letak Kereta Harian.
 *   Sekiranya Terminal terdekat rosak atau tidak boleh berfungsi, Pengguna dikehendaki mengunakan Terminal yang lain.
