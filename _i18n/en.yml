@@ -1,6 +1,8 @@
 global:
   welcome: Welcome to
   partner: Our Partner
+  footer_text1: For more information please contact <b>citycarpark helpline</b>
+  footer_text2: or email our customer service
 langs:
   ms: Malay
   en: English

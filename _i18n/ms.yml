@@ -1,6 +1,8 @@
 global:
   welcome: Selamat Datang ke
   partner: Rakan Kami
+  footer_text1: Untuk maklumat lanjut, hubungi <b>talian bantuan citycarpark</b>
+  footer_text2: atau e-mel ke Pusat Khidmat Pelanggan
 langs:
   ms: Malay
   en: English
