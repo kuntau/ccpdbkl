@@ -13,7 +13,7 @@ How to Pay:
 
 ---
 
-#### TOUCH 'N GO (IN PROGRESS)
+#### TOUCH 'N GO
 
 **Faster, Easier, Safer**  
 No Coins? No Problem. We provide this payment alternative for customer to pay parking time even though they did not have coins.  

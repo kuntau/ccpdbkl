@@ -38,7 +38,6 @@
 
 ###### Touch 'n Go
 * Minimum payment is 1 hour.
-* Minimum card balance RM20.00.
 * No refund will be given for customer’s negligence. No refund for entering wrong vehicle plate number.
 * Park at designated parking space.
 * In case of Terminal “Out Of Order” / not operational, please go to another terminal for coins payment.

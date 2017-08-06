@@ -1,11 +1,11 @@
-##### Kemudahan yang efisyen untuk pengendalian Pas Bulanan Digital
+##### Efficient tool for handling your digital permits
 
-Pas Bulanan Digital adalah perkhidmatan web yang fleksible dan mudah. Ianya dapat membantu anda untuk membuat permohonan Pas Bulanan Digital dengan cara yang cekap dan menjimatkan masa.
+Digital Season Pass is a flexible web service that helps you to apply season pass in way that is both efficient and that saves you time.
 
-##### Kelebihan menggunakan Pas Bulanan Digital
-- Menjimatkan masa.
-- Tidak perlu bukti fizikal untuk dikemukakan kepada pihak Penguatkuasa (seperti Sticker).
-- Sistem Penguatkuasaan telah diintegrasi sepenuhnya dengan modul Pas Bulanan Digital kami.
+##### Advantages of Digital Season Pass
+- Time savings
+- No physical proof needed to be clarified with enforcement (ie. Sticker etc)
+- Enforcement system are fully integrated with our Digital Season Pass Module
 {: .browser-default }
 
 ##### 3 EASY STEPS

@@ -38,7 +38,6 @@
 
 ###### Touch 'n Go
 * Pembayaran minimum 1 jam.
-* Baki kad hendaklah minimum RM20.00.
 * Tiada pembayaran semula di atas kecuaian pelanggan. (Sekiranya tidak memasukkan nombor plate kenderaan dengan betul).
 * Letak kereta di petak yang disediakan.
 * Sekiranya terminal mengalami kerosakan atau tidak beroperasi “Out Of Order”, sila pergi ke terminal lain untuk pembayaran Touch 'n Go.
